@@ -1,0 +1,223 @@
+body{
+    
+    background-color: #686A6C;
+    
+}
+hr{
+    border: dotted 6px #3A3845;
+    border-bottom: none;
+    margin: 100px auto;
+    width:15%;
+}
+h2{
+    color: rgba(255, 255, 255, 1);
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    line-height: 0;
+    padding: auto;
+    padding-top: 200px;
+    margin: auto;
+    font-size: 25px;
+    font-family: 'Merriweather', serif; 
+}
+h2{
+    font-size: 60px;
+    font-weight: normal;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Rancho', cursive;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Rancho', cursive;
+    font-size: 40px;
+    color: rgb(250, 249, 246);
+}
+
+
+
+span{
+    text-decoration: underline;
+}
+a{
+    font-family: 'Montserrat', sans-serif;
+    font-size:30px;
+    font-weight:200;
+    align-items: center;
+    margin:0 20px;
+    padding: 0;
+    line-height: 0;
+    text-decoration: none;
+    text-transform: none;
+    letter-spacing:-1px;
+    color:rgba(255, 255, 255, 1);
+  
+}
+a:hover{
+    color:black;
+    text-decoration: underline;
+}
+.img{
+    height: auto;
+  max-width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.img2{
+    height: auto;
+    max-width: 15%;
+    float: right;
+    margin-left: 30px;
+
+
+}
+
+.img3{
+    height: auto;
+  max-width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+.L1{
+    font-size:90px;
+    font-weight:500;
+    font-family: 'Rancho', cursive;
+    font-style:normal;
+    letter-spacing:-1px;
+    margin-bottom: 0;
+    text-decoration:none;
+    text-transform:none;
+    vertical-align: top;
+    color:rgba(0, 0, 0, 1);
+}
+.L2{
+    font-size:40px;
+    font-weight:500;
+    font-family: 'Rancho', cursive;
+    font-style:normal;
+    letter-spacing:-1px;
+    line-height: 0;
+    text-decoration:none;
+    text-transform:none;
+    color:rgba(255, 255, 255, 1);
+
+}
+.L3{
+    font-size:40px;
+    font-weight:500;
+    font-family: 'Rancho', cursive;
+    font-style:normal;
+    letter-spacing:-1px;
+    line-height: 0;
+    text-decoration:none;
+    text-transform:none;
+    color:rgba(255, 255, 255, 1);
+}
+.l{
+    vertical-align: top;
+    line-height: 0;
+    color:rgba(255, 255, 255, 1);
+    font-size: 500px;
+    font-weight: 1000;
+    position:relative;
+    text-align: center;
+    font-family: 'Rancho', cursive;
+    
+}
+#bottom-container{
+    line-height: 0;
+    position: relative;
+    padding-top: 60px;
+    margin-top: 60px;
+    text-align: center;
+}
+/*styling the text in the nav bar */
+.topnav {
+    color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    display: block;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline;
+    font-size: 20px;
+    font-weight: 200;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color:black;
+    text-decoration: underline;
+  }
+  .img1{
+  
+    height: auto;
+    line-height: 0;
+  }
+
+  .nav{
+    position: fixed;
+    background-color: #686A6C;
+    display: inline;
+    padding-bottom: 10px;
+  }
+  .skill-row{
+    color: rgb(255, 255, 255);
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    line-height: 2;
+    padding: auto;
+    padding-top: 200px;
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+  }
+  .projects{
+    text-align: center;
+    line-height: 2;
+    padding-bottom: 20px;
+  }
+  .skills{
+    text-align: center;
+    line-height: 2;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+ #About{
+    color: rgb(255, 255, 255);
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    line-height: 2;
+    padding: auto;
+    padding-top: 200px;
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+ }
+ #Projects{
+    color: rgb(255, 255, 255);
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    line-height: 2;
+    padding: auto;
+    padding-top: 200px;
+    margin: auto;
+    font-size: 20px;
+    font-family: 'Merriweather', serif;
+ }
+.copywrite{
+    font-size: 0.65rem;
+    padding:20px 20px;
+    line-height:normal;
+}
+
